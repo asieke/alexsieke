@@ -1,4 +1,4 @@
-## Beef Stew
+## Beef Chili
 
 Super filling beef chili 
 
