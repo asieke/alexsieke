@@ -1,7 +1,6 @@
-## Beef Stew
+## Pancakes
 
-This is a tasty beef stew that can be made in under an hour with the instant
-pot. Good hearty flavor perfect for a rainy evening
+Weekend fluffy pancakes
 
 ### Ingredients
 
